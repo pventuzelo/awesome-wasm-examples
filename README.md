@@ -13,7 +13,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Web-Browser
 
-[webassembly-examples](https://github.com/mdn/webassembly-examples)
+- [Mozilla webassembly-examples](https://github.com/mdn/webassembly-examples)
+- [Binaryen tests](https://github.com/WebAssembly/binaryen/tree/master/test)
 
 ### Blockchain Smart Contract platforms
 
@@ -31,4 +32,4 @@ An open source smart contract platform powered by WebAssembly
 [eWASM](https://github.com/ewasm/design#ethereum-flavored-webassembly-ewasm-design) is a restricted subset of WASM to be used for contracts in Ethereum.
 
 - [rust-ewasm - Examples of compiling Rust code to ewasm contracts](https://github.com/ewasm/rust-ewasm)
-
+- [Parity wasm contract examples](https://github.com/paritytech/wasm-tests)
